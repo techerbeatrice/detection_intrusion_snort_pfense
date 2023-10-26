@@ -16,3 +16,7 @@ ___
 
 ___
 
+**Installer Snort sur pfSense**  
+
+![image](https://github.com/techerbeatrice/detection_intrusion_snort_pfense/assets/138071140/5fe9caf7-17e5-4dc4-8b8b-0bbe676d48cb)
+
