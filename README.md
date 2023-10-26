@@ -36,7 +36,7 @@ ____
 
 ![image](https://github.com/techerbeatrice/detection_intrusion_snort_pfense/assets/138071140/1c94e387-0bdf-41e4-aaf7-d8e5fcc9edca)
 
-**b- les updates**   
+**b - les updates**   
 
 ![image](https://github.com/techerbeatrice/detection_intrusion_snort_pfense/assets/138071140/a8d1e2f6-3150-4488-ae5c-dc4ef75d6161)
 
@@ -51,13 +51,15 @@ ___
 
 ![image](https://github.com/techerbeatrice/detection_intrusion_snort_pfense/assets/138071140/ebcecf6b-e3ee-44b5-ab70-8fcc68a143d4)
 
-**d- démarrer snort**  
+____
+
+**d - démarrer snort**  
 
 ![image](https://github.com/techerbeatrice/detection_intrusion_snort_pfense/assets/138071140/0fff9155-7cf2-4fc1-a348-2314bfbb6d0e)
 
 _____
 
-**Voir les logs (alerts et blocked)**      
+**e - voir les logs (alerts et blocked)**      
 
 ![image](https://github.com/techerbeatrice/detection_intrusion_snort_pfense/assets/138071140/6d318c2c-caf1-4034-bdd5-acabbf208eac)
 
