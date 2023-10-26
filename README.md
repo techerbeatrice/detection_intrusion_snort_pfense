@@ -51,6 +51,10 @@ ___
 
 ![image](https://github.com/techerbeatrice/detection_intrusion_snort_pfense/assets/138071140/ebcecf6b-e3ee-44b5-ab70-8fcc68a143d4)
 
+**d- démarrer snort**  
+
+![image](https://github.com/techerbeatrice/detection_intrusion_snort_pfense/assets/138071140/0fff9155-7cf2-4fc1-a348-2314bfbb6d0e)
+
 _____
 
 **d - Voir les logs (alerts et blocked)**      
