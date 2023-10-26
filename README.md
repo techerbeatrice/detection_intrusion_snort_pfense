@@ -57,7 +57,7 @@ ___
 
 _____
 
-**d - Voir les logs (alerts et blocked)**      
+**Voir les logs (alerts et blocked)**      
 
 ![image](https://github.com/techerbeatrice/detection_intrusion_snort_pfense/assets/138071140/6d318c2c-caf1-4034-bdd5-acabbf208eac)
 
